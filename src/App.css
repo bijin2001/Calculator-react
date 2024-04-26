@@ -1,0 +1,17 @@
+*{
+
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Roboto Condensed", sans-serif;
+  background-color: #e5e5e5;
+}
+
+.bns{
+
+  display: grid;
+  grid-template-columns: repeat(4,auto);
+  grid-row-gap: 2em;
+  grid-column-gap: 9px;
+}
+
